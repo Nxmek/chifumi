@@ -1,0 +1,15 @@
+body {
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    background: var(--darkColor);
+    color: var(--text);
+
+    p {
+        letter-spacing: 0.1em;
+    }
+}
+
+::selection {
+    color: var(--darkColor);
+    background-color: var(--primaryColor);
+}
