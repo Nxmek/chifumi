@@ -19,11 +19,8 @@ const Battlefield2 = () => {
     console.log(IaRandom);
   };
 
-  // useEffect(iaMakeChoice, [playerChoice]);
-  useEffect(() => {
-    const IaRandom = randomNumber(1, 3);
-    console.log(IaRandom);
-  }, []);
+  iaMakeChoice();
+
   return (
     <div className={mc.container}>
       <div className={mc.fightingZone}>
