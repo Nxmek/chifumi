@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chifumi/static/css/main.c6a07819.css",
-    "main.js": "/chifumi/static/js/main.46c9de0f.js",
+    "main.css": "/chifumi/static/css/main.31a02e32.css",
+    "main.js": "/chifumi/static/js/main.0a090856.js",
     "static/media/FiraCode.ttf": "/chifumi/static/media/FiraCode.4938e54ab2f06530a084.ttf",
     "static/media/Poppins-ThinItalic.ttf": "/chifumi/static/media/Poppins-ThinItalic.9d5e661e645ce9a32fe6.ttf",
     "static/media/Poppins-LightItalic.ttf": "/chifumi/static/media/Poppins-LightItalic.4a7d59f898225cc2f2e7.ttf",
@@ -14,11 +14,11 @@
     "static/media/rock.svg": "/chifumi/static/media/rock.f0416c1eb260c084ab84f933508a488a.svg",
     "static/media/rock_ia.svg": "/chifumi/static/media/rock_ia.0179abc9f244cd549d5d377e638e208b.svg",
     "index.html": "/chifumi/index.html",
-    "main.c6a07819.css.map": "/chifumi/static/css/main.c6a07819.css.map",
-    "main.46c9de0f.js.map": "/chifumi/static/js/main.46c9de0f.js.map"
+    "main.31a02e32.css.map": "/chifumi/static/css/main.31a02e32.css.map",
+    "main.0a090856.js.map": "/chifumi/static/js/main.0a090856.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6a07819.css",
-    "static/js/main.46c9de0f.js"
+    "static/css/main.31a02e32.css",
+    "static/js/main.0a090856.js"
   ]
 }
