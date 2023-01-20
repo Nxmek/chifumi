@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/chifumi/static/css/main.31a02e32.css",
+    "main.css": "/chifumi/static/css/main.35593435.css",
     "main.js": "/chifumi/static/js/main.0a090856.js",
     "static/media/FiraCode.ttf": "/chifumi/static/media/FiraCode.4938e54ab2f06530a084.ttf",
     "static/media/Poppins-ThinItalic.ttf": "/chifumi/static/media/Poppins-ThinItalic.9d5e661e645ce9a32fe6.ttf",
@@ -14,11 +14,11 @@
     "static/media/rock.svg": "/chifumi/static/media/rock.f0416c1eb260c084ab84f933508a488a.svg",
     "static/media/rock_ia.svg": "/chifumi/static/media/rock_ia.0179abc9f244cd549d5d377e638e208b.svg",
     "index.html": "/chifumi/index.html",
-    "main.31a02e32.css.map": "/chifumi/static/css/main.31a02e32.css.map",
+    "main.35593435.css.map": "/chifumi/static/css/main.35593435.css.map",
     "main.0a090856.js.map": "/chifumi/static/js/main.0a090856.js.map"
   },
   "entrypoints": [
-    "static/css/main.31a02e32.css",
+    "static/css/main.35593435.css",
     "static/js/main.0a090856.js"
   ]
 }
